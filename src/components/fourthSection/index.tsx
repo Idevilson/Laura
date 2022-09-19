@@ -13,9 +13,8 @@ export function FourthSection() {
                         src="/assets/fourthSection/people.png"
                         alt="people"
                         height="569"
-                        width="1920"
-                        layout="fixed"
-                        objectFit="contain"
+                        layout={"fill"}
+                        objectFit={"fill"}
                         quality={100}
                     />
                 </div>

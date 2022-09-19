@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fdfd400-fce5-4e43-9c47-ddedae149d9b" name="Changes" comment="" />
+    <list default="true" id="0fdfd400-fce5-4e43-9c47-ddedae149d9b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/firstSection/Retângulo_1_copiar_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/firstSection/abstract.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/firstSection/abstract.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/firstSection/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/firstSection/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/firstSection/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/firstSection/styles.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/styles.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/fourthSection/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/fourthSection/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/fourthSection/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/fourthSection/styles.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/secondSection/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/secondSection/styles.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/thirdSection/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/thirdSection/styles.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/lading.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/lading.module.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +60,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ID/Desktop/Ze/Estaduais/laura",
+    "last_opened_file_path": "E:/Development/BASH/Ze/Estaduais/laura",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -57,7 +69,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
     "settings.editor.selected.configurable": "preferences.lookFeel",
-    "ts.external.directory.path": "C:\\Users\\ID\\Desktop\\Ze\\Estaduais\\laura\\node_modules\\typescript\\lib"
+    "ts.external.directory.path": "E:\\Development\\BASH\\Ze\\Estaduais\\laura\\node_modules\\typescript\\lib"
   }
 }]]></component>
   <component name="ReactDesignerToolWindowState">
@@ -78,6 +90,21 @@
       <recent name="C:\Users\ID\Desktop\valtonia\src\components\secondSection" />
       <recent name="C:\Users\ID\Desktop\valtonia\public\assets\header" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="valtonia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="valtonia" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -100,7 +127,9 @@
       <workItem from="1663384598381" duration="133000" />
       <workItem from="1663384746057" duration="6795000" />
       <workItem from="1663444682045" duration="1291000" />
-      <workItem from="1663527854857" duration="3974000" />
+      <workItem from="1663527854857" duration="4303000" />
+      <workItem from="1663535707137" duration="302000" />
+      <workItem from="1663630900700" duration="690000" />
     </task>
     <servers />
   </component>
@@ -127,7 +156,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/components/thirdSection/index.tsx</url>
           <line>26</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
