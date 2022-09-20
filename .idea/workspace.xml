@@ -6,16 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="0fdfd400-fce5-4e43-9c47-ddedae149d9b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/firstSection/Retângulo_1_copiar_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/assets/firstSection/abstract.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/firstSection/abstract.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/firstSection/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/firstSection/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/firstSection/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/firstSection/styles.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/styles.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/fourthSection/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/fourthSection/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/fourthSection/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/fourthSection/styles.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/secondSection/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/secondSection/styles.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/thirdSection/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/thirdSection/styles.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/lading.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/lading.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/footer/Forma_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/footer/facebookMobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/footer/facebookMobile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/footer/instagramMobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/footer/instagramMobile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/footer/whatsappMobile.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/footer/whatsappMobile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/header/facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/header/facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/header/instagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/header/instagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/header/whatsapp.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/assets/header/whatsapp.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/secondSection/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/secondSection/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +127,8 @@
       <workItem from="1663444682045" duration="1291000" />
       <workItem from="1663527854857" duration="4303000" />
       <workItem from="1663535707137" duration="302000" />
-      <workItem from="1663630900700" duration="690000" />
+      <workItem from="1663630900700" duration="1493000" />
+      <workItem from="1663637625923" duration="22000" />
     </task>
     <servers />
   </component>
