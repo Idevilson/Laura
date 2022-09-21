@@ -34,17 +34,13 @@ export function SecondSection() {
                         <Image
                             src="/assets/secondSection/sobreMim.png"
                             alt="efeito"
-                            width={332}
-                            height={43}
+                            width={346}
+                            height={41}
                             quality={100}
                         />
-                        <Image
-                            src="/assets/secondSection/Text.png"
-                            alt="efeito"
-                            width={719}
-                            height={44}
-                            quality={100}
-                        />
+                       <h1>
+                           Renovação e representatividade.
+                       </h1>
                     </div>
 
                     <div className={styles.bodyContent}>
@@ -139,7 +135,7 @@ export function SecondSection() {
 
                         defaultControlsConfig={{
                             pagingDotsStyle: {
-                                fill: '#fbc100',
+                                fill: '#efc241',
                                 width: 20,
                                 marginRight: 5,
                             },

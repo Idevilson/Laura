@@ -20,6 +20,23 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
+
+        h1{
+          color: #ffffff;
+          font-family: "Montserrat";
+          font-size: 34px;
+          font-weight: bold;
+          font-style: normal;
+          letter-spacing: normal;
+          line-height: 62.48px;
+          text-align: center;
+          /* Text style for "Renovação" */
+          font-style: normal;
+          letter-spacing: -0.18px;
+          line-height: normal;
+
+          margin-top: .2rem;
+        }
       }
       .bodyContent {
         display: flex;
