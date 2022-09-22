@@ -7,8 +7,8 @@
     <list default="true" id="0fdfd400-fce5-4e43-9c47-ddedae149d9b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/footer/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/styles.module.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/header/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/styles.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/styles.module.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +131,8 @@
       <workItem from="1663814735917" duration="836000" />
       <workItem from="1663816638866" duration="133000" />
       <workItem from="1663858188154" duration="801000" />
-      <workItem from="1663866332623" duration="190000" />
+      <workItem from="1663866332623" duration="835000" />
+      <workItem from="1663868433574" duration="103000" />
     </task>
     <servers />
   </component>

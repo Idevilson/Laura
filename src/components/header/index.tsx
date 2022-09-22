@@ -10,7 +10,6 @@ export function Header() {
                 <div className={styles.socialIconsContainer}>
                             <div className={styles.socialIcon}>
                                 <Link href="https://www.instagram.com/laurinhadosanjos">
-
                                     <a target="_blank">
                                         <Image
                                             src="/assets/header/instagram.png"
