@@ -32,20 +32,7 @@ export function Header() {
                                     </a>
                                 </Link>
                             </div>
-
-                            <div className={styles.socialIcon}>
-                                <Link href="">
-                                    <a  target="_blank">
-                                        <Image
-                                            src="/assets/header/whatsapp.png"
-                                            alt="ícone do whatsapp"
-                                            layout={"fill"}
-                                        />
-                                    </a>
-                                </Link>
-                            </div>
-
-            </div>
+                </div>
 
                 <div className={styles.navAndLogoContainer}>
                     <nav>

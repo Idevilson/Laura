@@ -39,16 +39,6 @@ export function Footer() {
                                     />
                                 </Link>
                             </div>
-                            <div className={styles.alignIcons}>
-                                <Link href="">
-                                    <Image
-                                        src="/assets/header/whatsapp.png"
-                                        alt="ícone do whatsapp"
-                                        width={39}
-                                        height={39}
-                                    />
-                                </Link>
-                            </div>
                     </div>
                 </div>
 
@@ -133,16 +123,6 @@ export function Footer() {
                             />
                         </Link>
                     </div>
-                    <div className={styles.alignIconsMobile}>
-                        <Link href="">
-                            <Image
-                                src="/assets/footer/whatsappMobile.png"
-                                alt="ícone do whatsapp"
-                                width={91}
-                                height={91}
-                            />
-                        </Link>
-                    </div>
                 </div>
 
                 <div className={styles.logoDoPartido}>
@@ -157,7 +137,7 @@ export function Footer() {
 
                 <div className={styles.textBottomMobile}>
                     <h1>
-                        LEI Nº9.504/97 - FEDERAÇÃO PSDB - CIDADANIA. CNPJ: 47.548.163/0001-77
+                        LEI N°9.504/97 - FEDERAÇÃO PSDB - CIDADANIA. CNPJ: 47.548.163/0001-77 / 11.274.042/0001-37
                     </h1>
                 </div>
             </footer>
