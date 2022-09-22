@@ -111,7 +111,7 @@ export function Footer() {
                 </div>
                 <div className={styles.socialIconsContainerMobile}>
                     <div className={styles.alignIconsMobile}>
-                        <Link href="https://www.instagram.com/valtoniapalmas">
+                        <Link href="https://www.instagram.com/laurinhadosanjos">
                             <a  target="_blank">
                                 <Image
                                     src="/assets/footer/instagramMobile.png"
@@ -124,7 +124,7 @@ export function Footer() {
                     </div>
 
                     <div className={styles.alignIconsMobile}>
-                        <Link href="https://www.facebook.com/Valtonia.palmas">
+                        <Link href="https://www.facebook.com/laura.dosanjos.35">
                             <Image
                                 src="/assets/footer/facebookMobile.png"
                                 alt="ícone do facebook"
@@ -134,7 +134,7 @@ export function Footer() {
                         </Link>
                     </div>
                     <div className={styles.alignIconsMobile}>
-                        <Link href="https://wa.me/556392213395">
+                        <Link href="">
                             <Image
                                 src="/assets/footer/whatsappMobile.png"
                                 alt="ícone do whatsapp"
