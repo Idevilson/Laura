@@ -138,14 +138,15 @@ export function ThirdSection() {
 
                     <div className={styles.footerMobile}>
                         <div className={styles.cardMobile}>
-                            <Image
-                                src="/assets/thirdSection/boy.png"
-                                alt="Ícone de um menino"
-                                width={194}
-                                height={196}
-                                quality={100}
-                            />
-
+                            <div className={styles.imageContainerAlign}>
+                                <Image
+                                    src="/assets/thirdSection/boy.png"
+                                    alt="Ícone de um menino"
+                                    width={194}
+                                    height={196}
+                                    quality={100}
+                                />
+                            </div>
                             <div className={styles.textBoxMobile}>
                                 <h2 className={styles.textMobile}>
                                     Faço parte da Diretoria<br />
@@ -155,14 +156,17 @@ export function ThirdSection() {
                         </div>
 
                         <div className={styles.cardMobile}>
-                            <Image
-                                src="/assets/thirdSection/hand.png"
-                                alt="Ícone de uma mão"
-                                width={194}
-                                height={196}
-                                quality={100}
-                            />
-
+                            <div className={styles.imageContainerAlign}>
+                                <div className={styles.imageContainerAlign}>
+                                    <Image
+                                        src="/assets/thirdSection/hand.png"
+                                        alt="Ícone de uma mão"
+                                        width={194}
+                                        height={196}
+                                        quality={100}
+                                    />
+                                </div>
+                            </div>
                             <div className={styles.textBoxMobile}>
                                 <h2 className={styles.textMobile}>
                                     Conquistamos o pagto dos<br />
@@ -172,14 +176,15 @@ export function ThirdSection() {
                         </div>
 
                         <div className={styles.cardMobile}>
-                            <Image
-                                src="/assets/thirdSection/money.png"
-                                alt="Ícone do dinheiro"
-                                width={194}
-                                height={196}
-                                quality={100}
-                            />
-
+                            <div className={styles.imageContainerAlign}>
+                                <Image
+                                    src="/assets/thirdSection/money.png"
+                                    alt="Ícone do dinheiro"
+                                    width={194}
+                                    height={196}
+                                    quality={100}
+                                />
+                            </div>
                             <div className={styles.textBoxMobile}>
                                 <h2 className={styles.textMobile}>
                                     Luto pela equiparação<br />
@@ -189,14 +194,15 @@ export function ThirdSection() {
                         </div>
 
                         <div className={styles.cardMobile}>
-                            <Image
-                                src="/assets/thirdSection/heart.png"
-                                alt="Ícone do dinheiro"
-                                width={194}
-                                height={196}
-                                quality={100}
-                            />
-
+                            <div className={styles.imageContainerAlign}>
+                                <Image
+                                    src="/assets/thirdSection/heart.png"
+                                    alt="Ícone do dinheiro"
+                                    width={194}
+                                    height={196}
+                                    quality={100}
+                                />
+                            </div>
                             <div className={styles.textBoxMobile}>
                                 <h2 className={styles.textMobile}>
                                     Luto pela implantação do<br />
@@ -206,14 +212,15 @@ export function ThirdSection() {
                         </div>
 
                         <div className={styles.cardMobile}>
-                            <Image
-                                src="/assets/thirdSection/heart.png"
-                                alt="Ícone do dinheiro"
-                                width={194}
-                                height={196}
-                                quality={100}
-                            />
-
+                            <div className={styles.imageContainerAlign}>
+                                <Image
+                                    src="/assets/thirdSection/heart.png"
+                                    alt="Ícone do dinheiro"
+                                    width={194}
+                                    height={196}
+                                    quality={100}
+                                />
+                            </div>
                             <div className={styles.textBoxMobile}>
                                 <h2 className={styles.textMobile}>
                                     Luto pelo acréscimo do <br />
