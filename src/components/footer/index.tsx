@@ -7,6 +7,16 @@ export function Footer() {
     return(
         <>
             <footer className={styles.footerContainer} id="footer">
+                <div className={styles.imageContainer}>
+                    <Image
+                        src="/assets/footer/footerBG.png"
+
+                        alt="abstract"
+                        layout={"fill"}
+                        objectFit={"cover"}
+                        quality={100}
+                    />
+                </div>
                 <div className={styles.footerTop}>
                     <Image
                         src="/assets/footer/siga.png"
@@ -86,6 +96,7 @@ export function Footer() {
 
 
                         layout="fill"
+
 
                         quality={100}
                     />
